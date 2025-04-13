@@ -90,6 +90,3 @@ curl -X POST http://localhost:9000/predict \
 expected output
 
 {"prediction": 0}
-
-# My README.md for exercise 6 is inside homework folder.
-
